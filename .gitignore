@@ -1,0 +1,26 @@
+# Xcode
+xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+*.xcscmblueprint
+build/
+DerivedData/
+*.moved-aside
+*.xccheckout
+*.spotlight-project
+
+# Swift Package Manager
+.build/
+.cache/
+Packages/
+Package.pins
+Package.resolved
+.swiftpm/xcode
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
